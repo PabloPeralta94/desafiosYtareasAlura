@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+}
+
+
+
+
+.content {
+    display: flex;    
+    flex-direction: column;    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 6px solid black;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 5px;
+    width: 70%;    
+}
+
+pre {
+    font-size: 20px;    
+}
