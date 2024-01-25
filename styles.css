@@ -1,0 +1,23 @@
+.bloque {
+    border: 1px solid black;
+    width: 60%;
+    height: 20%;
+    background-color: aqua;
+    margin: 5px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    text-shadow: rgba(black, black, black, 100);    
+}
+
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: auto;
+    height: 600px;   
+    background-color: red;
+}
